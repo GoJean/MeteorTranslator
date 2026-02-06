@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "name.gojean.meteor.translator.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "WWindowMixin",
+    "FontsMixin",
+    "FontMixin",
+    "ModulesScreenMixin",
+    "LanguageMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
